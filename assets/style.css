@@ -1,0 +1,24 @@
+
+body{
+  background-image: url(../img/azzurro.jpg);
+}
+
+h1{
+  text-align: center;
+  color: rgb(66, 64, 216) ;
+}
+#primaparte {
+  text-align: center;
+  margin:200px;
+  
+}
+
+#input1{
+  width: 550px;
+  height: 35px;
+}
+
+button {
+  width: 100px;
+  height: 35px;
+}
